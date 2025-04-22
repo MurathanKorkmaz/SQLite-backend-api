@@ -19,7 +19,7 @@ Aşağıda Postman ile yapılan testlerin ekran görüntüleri bulunmaktadır.
 ![Add User](screenshots/includeUser.png)
 
 ### Login İşlemi
-![Login](screenshots/l.png)
+![Login](screenshots/loginUser.png)
 
 ### Kullanıcı Listeleme
 ![Get Users](screenshots/bearerAuthorization.png)
