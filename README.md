@@ -12,17 +12,20 @@ JWT ile login sistemi, kullanıcı ekleme, listeleme ve silme işlemleri yapıla
 ## 📸 API Testleri (Postman)
 Aşağıda Postman ile yapılan testlerin ekran görüntüleri bulunmaktadır.
 
+### API Port Testi
+![Add User](screenshots/panelWork.png)
+
 ### Kullanıcı Ekleme
-![Add User](screenshots/add_user.png)
+![Add User](screenshots/includeUser.png)
 
 ### Login İşlemi
-![Login](screenshots/login.png)
+![Login](screenshots/loginUser.png)
 
 ### Kullanıcı Listeleme
-![Get Users](screenshots/get_users.png)
+![Get Users](screenshots/bearerAuthorization.png)
 
 ### Kullanıcı Silme
-![Delete User](screenshots/delete_user.png)
+![Delete User](screenshots/deleteUser.png)
 
 ## ⚙️ Kurulum
 ```bash
