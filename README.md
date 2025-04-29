@@ -1,4 +1,4 @@
-# Pegasoft Backend API Projesi
+# Backend API Projesi
 
 Flask ile geliştirilmiş kullanıcı yönetimi API'si. 
 JWT ile login sistemi, kullanıcı ekleme, listeleme ve silme işlemleri yapılabilir.
